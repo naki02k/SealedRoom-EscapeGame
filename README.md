@@ -8,7 +8,7 @@ Unityで制作した一人称視点の脱出ゲームです。
 - アイテム収集とUIによる確認機能
 - フェード付きシーン遷移
 - ゲーム終了や一時停止メニュー付き
-- 
+  
 ## 動画リンク
 [プレイ動画はこちら]https://drive.google.com/file/d/1qIZPwiFfVRv5J7JZdtEusmWBr45qnAQ8/view?usp=sharing
 

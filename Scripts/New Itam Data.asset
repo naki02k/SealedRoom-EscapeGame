@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c7e7c331f907a4f803b12efa27041e, type: 3}
+  m_Name: New Itam Data
+  m_EditorClassIdentifier: 
+  itemList:
+  - id: FlashLight
+    item: {fileID: 100000, guid: b694b8ec5c41f6247843a2b67222fda6, type: 3}
+    explainText: "\u61D0\u4E2D\u96FB\u706F"
+  - id: Key
+    item: {fileID: 1582621612835726801, guid: 1436513f7b239264f9d74995c0c0b042, type: 3}
+    explainText: "\u30AB\u30D0\u30F3\u306E\u9375"
+  - id: Memo_1
+    item: {fileID: 2072846145765457629, guid: 89a5e06767531f4449faaf92b813768c, type: 3}
+    explainText: "\u30E1\u30E2 1"
+  - id: Memo_2
+    item: {fileID: 2329274942751130779, guid: 55f9e2f2d984cc34290394c987110997, type: 3}
+    explainText: "\u30E1\u30E2 2"
+  - id: Memo_3
+    item: {fileID: 4853817902030556488, guid: 7eac6c22c8f20dd44bbb03033f8e3433, type: 3}
+    explainText: "\u30E1\u30E2 3"
+  - id: Memo_4
+    item: {fileID: 4841753071779886592, guid: e92cc753f6342de4c901217544345f7f, type: 3}
+    explainText: "\u30E1\u30E2 4"
+  - id: Memo_5
+    item: {fileID: 7706782983851510115, guid: 4a2d3f29eae46fc449c227cf0da1b711, type: 3}
+    explainText: "\u30E1\u30E2 5"
+  - id: Memo_6
+    item: {fileID: 4409584263252139280, guid: 66ec2c9165c32a145868db6986b9d218, type: 3}
+    explainText: "\u30E1\u30E2 6"
+  - id: Memo_7
+    item: {fileID: 7874489183866694168, guid: e5ea3ac7ecbb2484599ff6774b99c75c, type: 3}
+    explainText: "\u30E1\u30E2 7"
+  - id: Driver
+    item: {fileID: 3746625133862764524, guid: 06d7d1940b5eb9f4b9f25edf8f0d5e90, type: 3}
+    explainText: "\u30C9\u30E9\u30A4\u30D0\u30FC"
